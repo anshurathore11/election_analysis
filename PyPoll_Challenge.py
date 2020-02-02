@@ -1,8 +1,10 @@
 # The data we need to retrieve
 # 1. The total number of votes cast
-# 2. A complete list of candidates who received votes
-# 3. The total number of votes each candidate won
-# 4. The winner of the election based on popular vote
+# 2. A complete list of counties where voting took place
+# 3. The total number of votes cast in each county
+# 4. A complete list of candidates who received votes
+# 5. The total number of votes each candidate won
+# 6. The winner of the election based on popular vote
 
 # Add our dependencies.
 import csv
